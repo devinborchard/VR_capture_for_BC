@@ -9,8 +9,8 @@ showPackageIndexes = false
 showStatusBar = false
 scopes = {
 	"picker_window_position_offset.D845A788" = "268;269;320;550"
-	"picker_search_text.D845A788" = "XRI right interaction/Ac"
-	"last_search.D845A788" = "XRI right interaction/Ac"
+	"picker_search_text.D845A788" = "XRI right interaction/A"
+	"last_search.D845A788" = "XRI right interaction/A"
 	"OpenInspectorPreview.D845A788" = "0"
 	"currentGroup.D845A788" = "all"
 }
@@ -64,6 +64,7 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"XRI right i"
 ]
 searchItemFavorites = [
 ]
