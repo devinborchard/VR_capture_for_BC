@@ -1,0 +1,8 @@
+Logs/
+Library/
+
+.vs/
+.vscode/
+.vsconfig
+
+Temp/
